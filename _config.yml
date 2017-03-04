@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 
@@ -57,3 +58,6 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+=======
+theme: jekyll-theme-leap-day
+>>>>>>> origin/master
